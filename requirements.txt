@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+sentence-transformers
+langchain-community
+langchain-google-genai
+PyMuPDF
+langchain-groq
+langgraph
+pypdf
+google
